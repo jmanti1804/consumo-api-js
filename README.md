@@ -2,6 +2,7 @@
 
 ## Consumo API
 
+En el proyecto utilicé HTML y JavaScript vanilla
 Este proyecto pequeño lo realice porque quería practicar el consumo de una api.
 Encontre un video en youtube y lo repliquÃ©.
 Para entender mejor el consumo de API's.
@@ -32,8 +33,10 @@ Please adhere to this project's `code of conduct`.
 
 ## Usage/Examples
 
+Por ser demostrativo y forma de conaulta para mi solo debemos abrir el documento html en el live server y se muestra los resulatados del consumo de la API
+```JavaScript 
 
-```terminal
+
 
 ```
 
